@@ -1,14 +1,18 @@
-Another Gallery
-=================
+Gallery
+=========
 
 .. nbgallery::
-    :caption: Examples
-    :glob:
+   :caption: Examples
+   :glob:
 
-    examples/example*
+   examples/example*
 
 .. nbgallery::
-    :caption: Tests
-    :glob:
+   :caption: Tests
+   :glob:
 
-    tests/test*
+   tests/Birth_Death
+   tests/Homodimerization_and_Annihilation
+   tests/Reversible
+   tests/Reversible_Diffusion_limited
+   tests/MSD
