@@ -113,7 +113,3 @@ source_suffix = ['.rst', '.md']
 source_parsers = {
     '.md': CommonMarkParser,
 }
-
-sphinx_gallery_conf = {
-    'thumbnail_size': (600, 420),
-}
