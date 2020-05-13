@@ -1,14 +1,18 @@
 Gallery
 =========
 
+Examples
+----------
+
 .. nbgallery::
-   :caption: Examples
    :glob:
 
    examples/example*
 
+Tests
+------
+
 .. nbgallery::
-   :caption: Tests
    :glob:
 
    tests/Birth_Death
