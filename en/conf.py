@@ -9,7 +9,7 @@ extensions = [
     'numpydoc',
 ]
 
-autosummary_generate = True
+autosummary_generate = False
 
 nbsphinx_prolog = r"""
 {% set path = env.doc2path(env.docname, base=None).replace('\\', '/') %}
