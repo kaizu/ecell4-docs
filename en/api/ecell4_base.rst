@@ -1,40 +1,64 @@
 ecell4_base module
-====================
+==================
 
-.. automodapi:: ecell4_base
+.. automodule:: ecell4_base
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.core submodule
-----------------------------
-
-.. automodapi:: ecell4_base.core
-
-ecell4_base.bd submodule
 --------------------------
 
-.. automodapi:: ecell4_base.bd
+.. automodule:: ecell4_base.core
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ecell4_base.bd submodule
+------------------------
+
+.. automodule:: ecell4_base.bd
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.egfrd submodule
-----------------------------------
+------------------------
 
-.. automodapi:: ecell4_base.egfrd
+.. automodule:: ecell4_base.egfrd
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.gillespie submodule
------------------------------------
+------------------------
 
-.. automodapi:: ecell4_base.gillespie
+.. automodule:: ecell4_base.gillespie
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.meso submodule
----------------------------
+------------------------
 
-.. automodapi:: ecell4_base.meso
+.. automodule:: ecell4_base.meso
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.ode submodule
----------------------------
+------------------------
 
-.. automodapi:: ecell4_base.ode
+.. automodule:: ecell4_base.ode
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 ecell4_base.spatiocyte submodule
----------------------------------
+------------------------
 
-.. automodapi:: ecell4_base.spatiocyte
+.. automodule:: ecell4_base.spatiocyte
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
