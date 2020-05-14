@@ -6,3 +6,4 @@ ipython
 pip>=8.1.2
 sphinx-typlog-theme
 sphinx-gallery
+sphinx-automodapi
