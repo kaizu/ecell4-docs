@@ -3,11 +3,13 @@ import os
 
 extensions = [
     'nbsphinx', 'sphinx.ext.autodoc',
-    # 'sphinx.ext.autosummary',
+    'sphinx.ext.autosummary',
     'IPython.sphinxext.ipython_console_highlighting', 'IPython.sphinxext.ipython_directive',
     'sphinx_gallery.load_style',
     'numpydoc',
 ]
+
+autosummary_generate = True
 
 nbsphinx_prolog = r"""
 {% set path = env.doc2path(env.docname, base=None).replace('\\', '/') %}
