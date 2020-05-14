@@ -2,7 +2,8 @@ import sys
 import os
 
 extensions = [
-    'nbsphinx', 'sphinx.ext.autodoc', 'sphinx.ext.autosummary',
+    'nbsphinx', 'sphinx.ext.autodoc',
+    # 'sphinx.ext.autosummary',
     'IPython.sphinxext.ipython_console_highlighting', 'IPython.sphinxext.ipython_directive',
     'sphinx_gallery.load_style',
     'numpydoc',
