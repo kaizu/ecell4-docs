@@ -1,5 +1,5 @@
 ecell4_base module
-==================
+====================
 
 .. automodule:: ecell4_base
    :members:
@@ -7,7 +7,7 @@ ecell4_base module
    :show-inheritance:
 
 ecell4_base.core submodule
---------------------------
+----------------------------
 
 .. automodule:: ecell4_base.core
    :members:
@@ -15,7 +15,7 @@ ecell4_base.core submodule
    :show-inheritance:
 
 ecell4_base.bd submodule
-------------------------
+--------------------------
 
 .. automodule:: ecell4_base.bd
    :members:
@@ -23,7 +23,7 @@ ecell4_base.bd submodule
    :show-inheritance:
 
 ecell4_base.egfrd submodule
-------------------------
+----------------------------------
 
 .. automodule:: ecell4_base.egfrd
    :members:
@@ -31,7 +31,7 @@ ecell4_base.egfrd submodule
    :show-inheritance:
 
 ecell4_base.gillespie submodule
-------------------------
+-----------------------------------
 
 .. automodule:: ecell4_base.gillespie
    :members:
@@ -39,7 +39,7 @@ ecell4_base.gillespie submodule
    :show-inheritance:
 
 ecell4_base.meso submodule
-------------------------
+---------------------------
 
 .. automodule:: ecell4_base.meso
    :members:
@@ -47,7 +47,7 @@ ecell4_base.meso submodule
    :show-inheritance:
 
 ecell4_base.ode submodule
-------------------------
+---------------------------
 
 .. automodule:: ecell4_base.ode
    :members:
@@ -55,7 +55,7 @@ ecell4_base.ode submodule
    :show-inheritance:
 
 ecell4_base.spatiocyte submodule
-------------------------
+---------------------------------
 
 .. automodule:: ecell4_base.spatiocyte
    :members:
